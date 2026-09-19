@@ -4,7 +4,7 @@ Projeto da disciplina **Projeto de Software** (Universidade Presbiteriana Macken
 Implementação em Java do caso de uso **Assinar Plano de Refeições** do sistema *Minha Refeição*
 (Serviço de Assinatura de Marmitas), a partir dos modelos UML publicados na [Wiki](../../wiki).
 
-**Grupo:** Gabriel Valieri dos Santos · Enzo Bueno Nichimura (RA 10737959)
+**Grupo:** Gabriel Valieri dos Santos (RA 10736421) · Enzo Bueno Nichimura (RA 10737959)
 
 ## Requisitos
 
